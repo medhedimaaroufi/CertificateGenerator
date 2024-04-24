@@ -50,4 +50,7 @@ Certificate Generator is a Python application that enables users to create certi
    ```bash
    pyinstaller --onefile --windowed app.py
 
-# CertificateGenerator
+## Screen Shots
+
+![App](https://github.com/medhedimaaroufi/CertificateGenerator/blob/main/screen.png)
+
