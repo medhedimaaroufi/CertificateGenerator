@@ -54,3 +54,7 @@ Certificate Generator is a Python application that enables users to create certi
 
 ![App](https://github.com/medhedimaaroufi/CertificateGenerator/blob/main/screen.png)
 
+## Copyright
+
+© 2024 medhedimaaroufi. All rights reserved.
+
